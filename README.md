@@ -1,0 +1,2 @@
+# insect-protein-meeting-minutes
+昆虫蛋白产业化会议纪要全栈系统——前端展示养殖环境数据与营养分析，后端处理农业专家与企业家对话，librosa去风扇噪声，Whisper识别昆虫学名，pyannote区分产研双方，OpenAI生成扩产方案、法规挑战和营销策略摘要，Markdown邮件发送投资者与合作伙伴
